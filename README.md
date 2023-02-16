@@ -6,6 +6,10 @@ Kod który zmodyfikowałem do metasploita pod kątem windows defendera FLAG3.
 
 ==================================================================
 
+
+
+
+
 class MetasploitModule < Msf::Exploit::Remote
 
   Rank = NormalRanking
